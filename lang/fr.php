@@ -44,10 +44,10 @@
 		"welcome_text" => "Connectez-vous par le biais de Steam pour utiliser notre portail de dons simplifié.",
 
 		// News
-		"news" => "News",
+		"news" => "Nouvelles",
 		"by" => "Par",
-		"no_news" => "Pas de news",
-		"no_news_text" => "Il n'y a pas de news.",
+		"no_news" => "Aucune nouvelles",
+		"no_news_text" => "Il n'y a aucune nouvelles.",
 		"no_news_articles" => "Pas de nouveaux articles.",
 
 		// Footer
@@ -329,7 +329,7 @@
 		"add_permission" => "Ajouter groupe de permissions",
 		"edit_permission" => "Editer groupe de permissions",
 		"permissions" => "Permissions",
-		"no_perm" => "Je suis désolé Dave, je crains que de ne pouvoir vous laisser faire ça (permissisons insuffisantes)",
+		"no_perm" => "Je suis désolé Dave, je crains de ne pouvoir vous laisser faire ça (permissisons insuffisantes)",
 
 		/**
 		 * New in 1.5.1.2
@@ -486,8 +486,8 @@
 		"select_theme" => "Sélectionnez un thème",
 
 		// Imprint page
-		"imprint" => "Imprint",
-		"enable_imprint" => "Activer imprint",
+		"imprint" => "Imprimer",
+		"enable_imprint" => "Activer Imprimer",
 		"company_name" => "Nom de l'entreprise",
 		"street_address" => "Adresse de la rue",
 		"post_address" => "Adresse poste",
